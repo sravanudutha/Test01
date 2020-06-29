@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "203100954247",
+    "firebase_url": "https://githubtest-d3c4f.firebaseio.com",
+    "project_id": "githubtest-d3c4f",
+    "storage_bucket": "githubtest-d3c4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203100954247:android:db3443479810e39b982222",
+        "android_client_info": {
+          "package_name": "com.test.apk1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203100954247-075ghr7tfabmvp60u6apnne2ik0in2sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgogccv-01vOHUm72uNeTwQ9ujDVLmopU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203100954247-075ghr7tfabmvp60u6apnne2ik0in2sl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
